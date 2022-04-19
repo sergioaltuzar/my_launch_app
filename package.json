@@ -1,0 +1,19 @@
+{
+  "name": "my_launch_app",
+  "version": "1.0.0",
+  "description": "Ejercicio 1, semana 3, backend Launchx.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioaltuzar/my_launch_app.git"
+  },
+  "author": "Sergio Altuzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioaltuzar/my_launch_app/issues"
+  },
+  "homepage": "https://github.com/sergioaltuzar/my_launch_app#readme"
+}
